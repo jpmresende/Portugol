@@ -12,11 +12,10 @@ Este repositório foi criado com o objetivo de:
 - Registrar minha evolução na programação.
 
 Tecnologias Utilizadas
+
 - Portugol Studio
 - Lógica de Programação
   
-Conteúdo do Repositório
-
 Você encontrará projetos como:
 
 - Calculadora de média;
