@@ -16,7 +16,7 @@ Tecnologias Utilizadas
 - Portugol Studio
 - Lógica de Programação
   
-Você encontrará projetos como:
+Você (por enquanto :]) encontrará projetos como:
 
 - Calculadora de média;
 - Verificador de número par ou ímpar;
