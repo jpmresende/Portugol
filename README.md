@@ -1,7 +1,7 @@
 # Portugol
 Bem-vindo ao meu repositório de Portugol!
 
-Aqui compartilho meus exercícios, desafios e pequenos projetos desenvolvidos durante meus estudos de lógica de programação utilizando o Portugol Studio.
+Aqui compartilho meus exercícios, desafios e pequenos projetos desenvolvidos durante meus estudos de lógica de programação no Ensino Médio utilizando o Portugol Studio.
 
 Este repositório foi criado com o objetivo de:
 
@@ -16,8 +16,10 @@ Tecnologias Utilizadas
 - Portugol Studio
 - Lógica de Programação
   
-Você (por enquanto :]) encontrará projetos como:
+Você encontrará (por enquanto :]) projetos como:
 
 - Calculadora de média;
 - Verificador de número par ou ímpar;
 - Conversores de temperatura (Fahrenheit/Celsius).
+
+Fique à vontade para explorar os projetos dessa e de futuras outras pastas!
