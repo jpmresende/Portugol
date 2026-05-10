@@ -7,9 +7,9 @@ Este repositório foi criado com o objetivo de:
 
 - Praticar lógica de programação;
     Aprender estruturas condicionais e de repetição;
-    Melhorar resolução de problemas;
-    Desenvolver raciocínio computacional;
-    Registrar minha evolução na programação.
+    \nMelhorar resolução de problemas;
+    \nDesenvolver raciocínio computacional;
+    \nRegistrar minha evolução na programação.
 
 - Tecnologias Utilizadas
     Portugol Studio
