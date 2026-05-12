@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	
+inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
 		real numero, raiz
@@ -13,7 +14,7 @@ programa
 		numero = 27.0
 		raiz = mat.raiz (numero, 3.0)
 
-		escreva ("A raiz cúbica de ", numero, " é: ", raiz, ".\n")
+escreva ("A raiz cúbica de ", numero, " é: ", raiz, ".\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
