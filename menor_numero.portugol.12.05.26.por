@@ -18,7 +18,7 @@ escreva("=== QUAL O MENOR NÚMERO? ===\n\n")
 		menor = mat.menor_numero (numero1, numero2)
 		escreva ("\nO menor número é... ", menor, "!\n")
 
-		escreva ("\nTenha um bom dia!\n")
+escreva ("\nTenha um bom dia!\n")
 	
 	}
 }
