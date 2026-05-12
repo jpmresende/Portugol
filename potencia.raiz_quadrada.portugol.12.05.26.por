@@ -11,7 +11,7 @@ escreva ("=== CALCULADORA DE POTÊNCIA E RAIZ QUADRADA ===\n\n")
 		leia (valor)
 
 		potencia = mat.potencia (valor, 3.0) //calcula o valor elevado ao cubo '^3'
-		raiz_quadrada = mat.raiz (valor, 2.0) //calcula a raiz do valor'
+		raiz_quadrada = mat.raiz (valor, 2.0) //calcula a raiz do valor
 
 		escreva ("\nO número ao cubo de ", valor, " é: ", potencia, ".\n")
 		escreva ("A raiz quadrada de ", valor, " é: ", raiz_quadrada, ".\n")
