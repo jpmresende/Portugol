@@ -24,18 +24,19 @@ programa
         { escreva(". Seu peso está abaixo do normal.\n")
         }senao {
            	
-        se (imc < 25)
-        { escreva(". Seu peso está normal.\n")
-        } senao {
+        	se (imc < 25)
+        	{ escreva(". Seu peso está normal.\n")
+        	} senao {
         	
-        se (imc < 30)
-        { escreva(". Você está com sobrepeso.\n")
-        } senao {
+        		se (imc < 30)
+        		{ escreva(". Você está com sobrepeso.\n")
+        		} senao {
         	
-        se (imc < 40)
-        { escreva(". Você está obeso(a).\n")
-        } senao {
-          escreva(". Você atingiu a obesidade extrema, procure um médico imediatamente.\n")
+        			se (imc < 40)
+        			{ escreva(". Você está obeso(a).\n")
+
+        				} senao {
+          				escreva(". Você atingiu a obesidade extrema, procure um médico imediatamente.\n")
         }
             
         
