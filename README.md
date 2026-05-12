@@ -21,6 +21,9 @@ Você encontrará (por enquanto :]) projetos como:
 - Calculadora de média;
 - Verificador de número par ou ímpar;
 - Conversores de temperatura (Fahrenheit/Celsius);
-- Calculadora de IMC.
+- Calculadora de IMC;
+- Cálculo de triângulos (equilátero/isoscéles/escaleno);
+- Cáculo de potência/raiz quadrada de um número;
+- e muitos outros!
 
 Fique à vontade para explorar os projetos dessa e de futuras outras pastas!
