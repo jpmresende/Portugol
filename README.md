@@ -20,6 +20,7 @@ Você encontrará (por enquanto :]) projetos como:
 
 - Calculadora de média;
 - Verificador de número par ou ímpar;
-- Conversores de temperatura (Fahrenheit/Celsius).
+- Conversores de temperatura (Fahrenheit/Celsius);
+- Calculadora de IMC.
 
 Fique à vontade para explorar os projetos dessa e de futuras outras pastas!
