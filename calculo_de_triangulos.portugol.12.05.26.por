@@ -22,7 +22,8 @@ programa
 		{
 
 			// equilátero
-			se (lado1 == lado2 e lado2 == lado3) {
+			se (lado1 == lado2 e 
+				lado2 == lado3) {
 			escreva("\nEsses valores formam um triângulo equilátero.\n")
 			}
 
