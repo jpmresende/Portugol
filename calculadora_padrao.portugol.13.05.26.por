@@ -11,7 +11,7 @@ escreva ("=== CALCULADORA PADRÃO ===")
 		escreva ("\n\nInsira o primeiro número: ")
 		leia (n1)
 
-		//enquanto o número 0 não for digitado como primeiro número, o programa continuará rodando.
+		//enquanto o número '0' não for digitado como primeiro número, o programa continuará rodando.
 		enquanto (n1 != 0){
 
 			escreva ("Insira o segundo número: ")
