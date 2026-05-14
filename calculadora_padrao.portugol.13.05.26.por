@@ -24,7 +24,7 @@ escreva ("=== CALCULADORA PADRÃO ===")
 			subtracao = n1 - n2 - n3
 			multi = n1 * n2 * n3	
 			divisao = (n1 / n2) / n3
-			//somatudo = soma de todos os números, independente da repetição
+			//somatudo = soma de todos os números, independente da repetição.
 			somatudo = somatudo + soma
 	
 			escreva ("\nA soma dos números deu: ", soma)
@@ -32,7 +32,7 @@ escreva ("=== CALCULADORA PADRÃO ===")
 			escreva ("\nA multiplicação dos números deu: ", multi)
 			escreva ("\nA divisão dos números deu: ", divisao)
 	
-			//conte = número de vezes que o programa repetiu
+			//conte = número de vezes que o programa repete.
 			conte = conte + 1
 	
 			escreva ("\n\nInsira o primeiro número: ")
