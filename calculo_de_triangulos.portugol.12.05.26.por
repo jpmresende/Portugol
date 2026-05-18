@@ -15,6 +15,8 @@ programa
 		escreva("Qual o valor do lado 3 do triângulo? ")
 		leia(lado3)
 
+enquanto (lado1 != 0 ou lado2 != 0 ou lado3 != 0){
+
 		// um triângulo só pode existir se...
 		se (lado1 + lado2 > lado3 e
 		    lado1 + lado3 > lado2 e
@@ -42,7 +44,20 @@ programa
 		} senao {
 			escreva("\nEsses valores NÃO formam um triângulo! Insira outros valores.\n")
 		}
-	}
+
+		escreva("\n-------------------------------------------->")
+		escreva("\n\nQual o valor do lado 1 do triângulo? ")
+		leia(lado1)
+
+		escreva("Qual o valor do lado 2 do triângulo? ")
+		leia(lado2)
+
+		escreva("Qual o valor do lado 3 do triângulo? ")
+		leia(lado3)
+		
+	} //chave da repetição
+		
+	} 
 }
 /* $$$ Portugol Studio $$$ 
  * 
