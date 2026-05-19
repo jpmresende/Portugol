@@ -3,7 +3,7 @@ programa
 	funcao inicio()
 	{
 
-		real salario = 0.00, salario_30
+	real salario = 0.00, salario_30
 
 escreva("=== SALÁRIO + 30% ===")
 
