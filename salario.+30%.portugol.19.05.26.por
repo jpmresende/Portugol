@@ -8,12 +8,11 @@ programa
 
 escreva("=== SALÁRIO + 30% ===")
 
-escreva("\n\nOlá, digite seu salário atual: R$")
+	escreva("\n\nOlá, digite seu salário atual: R$")
 	leia(salario)
 
 enquanto (salario != 0){
 
-	
 	//salário atual + 30%
 	salario_30 = salario * 1.3
 
@@ -24,6 +23,7 @@ enquanto (salario != 0){
 	escreva("\n\n-------------------------------------------->")
 	escreva("\n\nOlá, digite seu salário atual: R$")
 	leia(salario)
+
 }	
 	}
 }
