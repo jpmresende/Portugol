@@ -4,7 +4,7 @@ programa
  --> mat
 	funcao inicio()
 	{
-		real paozinho = 0.12, broa = 1.50, vendas_do_dia, poupanca
+		real paozinho, broa, vendas_do_dia, poupanca
 
 escreva("=== VENDAS PADARIA HOT-PÃO ===\n\n")
 
