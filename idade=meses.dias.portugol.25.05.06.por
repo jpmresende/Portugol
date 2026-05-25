@@ -12,9 +12,7 @@ escreva("=== CONVERSOR DE IDADE EM MESES E DIAS ===")
 
 enquanto (nome != "nenhum"){
 
-	escreva("\n", 
-	
-	nome,", qual a sua idade? ")
+	escreva("\n", nome,", qual a sua idade? ")
 	leia(idade)
 
 		meses = idade * 12
