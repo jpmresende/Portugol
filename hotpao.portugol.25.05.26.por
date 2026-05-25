@@ -1,7 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica
- --> mat
+	inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
 		real paozinho, broa, vendas_do_dia, poupanca
