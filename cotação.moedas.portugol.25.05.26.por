@@ -24,7 +24,6 @@ enquanto(reais != 0){
 		peso = mat.arredondar(peso, 2)
 		franco = mat.arredondar(franco, 2)
 		
-
 	escreva("\n", reais," real(is) (R$) é igual a: ")
 	escreva("\n\n--> US$ ", dolar, " dólares estadunidenses.")
 	escreva("\n--> € ", euro, " euros.")
