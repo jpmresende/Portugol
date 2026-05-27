@@ -33,6 +33,5 @@ enquanto(servico != 0){
 		
 }//chave da repetição do serviço	
 
-
 	}
 }
