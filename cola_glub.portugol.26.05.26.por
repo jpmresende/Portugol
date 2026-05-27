@@ -3,15 +3,10 @@ programa
 	
 	funcao inicio()
 	{
-		real lata350, garrafa600, garrafa2l, quantidade_lata350, quantidade_garrafa600, quantidade_garrafa2l, soma, CPF
+		inteiro lata350, garrafa600, garrafa2l, quantidade_lata350, quantidade_garrafa600, quantidade_garrafa2l, soma
 		
 		escreva("          Cola Glub")
 		escreva("\n=== CALCULADORA DE LITROS ===")
-
-enquanto (CPF != 0){
-
-		escreva("\n\nOlá, qual o seu CPF? Digite '0' para encerrar a compra: ")
-		escreva(CPF)
 
 		escreva("\n\nQuantas latas de 350 mL você comprou? ")
 		leia(quantidade_lata350)
@@ -25,10 +20,9 @@ enquanto (CPF != 0){
 			garrafa2l = 2000
 			soma = (lata350 * quantidade_lata350) + (garrafa600 * quantidade_garrafa600) + (garrafa2l * quantidade_garrafa2l)
 
-		escreva("Você está levando", soma," mL.")
-		escreva("Nota fiscal impressa. Volte sempre!")
+		escreva("\n-------> Você está levando ", soma," mL.")
+		escreva(" Nota fiscal impressa. Volte sempre!\n")
 
-}
 	}
 }
 /* $$$ Portugol Studio $$$ 
