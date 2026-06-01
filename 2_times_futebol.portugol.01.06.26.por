@@ -4,10 +4,9 @@ programa
 	funcao inicio()
 	{
 
-	cadeia time1 = "", time2 = ""
-	inteiro gols_1, gols_2, soma_gols
-	real media_gols = 0.00
-
+		cadeia time1 = "", time2 = ""
+		inteiro gols_1, gols_2, soma_gols
+		real media_gols = 0.00
 	
 	escreva("=== TABELA DE CLASSIFICAÇÃO DOS TIMES ===\n\n")
 	
