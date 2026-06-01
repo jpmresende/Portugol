@@ -32,7 +32,7 @@ enquanto(nome != "fim"){
 				}
 			}
 			
-		se( genero == "F"){
+		se( genero == "M"){
 			se( idade > idade_velha){
 				idade_velha = idade
 				nome_velha = nome
