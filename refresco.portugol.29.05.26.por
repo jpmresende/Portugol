@@ -15,7 +15,7 @@ programa
 		suco = litros_refresco * 2 / 10
 
 		escreva("\nQuantidade de água mineral: ", agua, " litros")
-		escreva("\nQuantidade de suco de maracujá: ", suco, " litros")
+		escreva("\nQuantidade de suco de maracujá: ", suco, " litros\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
