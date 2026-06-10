@@ -7,6 +7,7 @@ programa
 	real peso_redacao, nota_redacao, peso_mat, nota_mat, peso_cg, nota_cg, media_ponderada
 	
 		escreva("=== MÉDIA PONDERADA DE NOTAS ===")
+
 		escreva("\n\nQual sua nota em Redação? ")
 		leia(nota_redacao)
 		escreva("Qual o peso da nota de Redação? ")
