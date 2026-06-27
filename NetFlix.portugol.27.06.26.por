@@ -89,13 +89,13 @@ enquanto(nome != "fim"){
 			conte_pessoas = conte_homens + conte_mulheres
 			
 		
-	escreva("\n————————————————————————————————————————————————————————————————")
+	escreva("\n————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————")
 	escreva("\n\nDADOS FINAIS")
 	escreva("\n\n• Número pessoas que assistem 'Bridgerton' -----------------------------------------------------------------------> ", bridgerton)
 	escreva("\n• Número de mulheres, com idade acima de 30 anos e que assistem 'Round 6' ----------------------------------------> ", round6_mulheres)
 	escreva("\n• Média de mulheres que assistem 'O Píer' ------------------------------------------------------------------------> ", media_mulheres_opier)
 	escreva("\n• Total de pessoas, acima de 50 anos, que assistem as demais séries não citadas acima (séries 2, 5 ou 6) ---------> ", total_50_outras_series)
-	escreva("\n\n————————————————————————————————————————————————————————————————\n")
+	escreva("\n\n————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————\n")
 
 	escreva("\n> Qual seu nome? ")
 	leia(nome)
