@@ -41,8 +41,13 @@ enquanto(nome != "FIM" e nome != "fim"){
 		acrescimo_abono = salario_bruto * 0.15
 		escreva("\n• Valor do abono de padeiro: R$ ", mat.arredondar(acrescimo_abono,2)) }
 
+	senao {
+		acrescimo_abono = 0.00
+		escreva("\n• Valor do abono: R$ ", mat.arredondar(acrescimo_abono,2)) }
+
 		salario_liquido = salario_bruto - desconto_INSS - desconto_IRPF + acrescimo_abono
 
+	escreva("\n\n• Funcionário: ", nome)
 	escreva("\n• Desconto do INSS: R$ ", mat.arredondar(desconto_INSS,2))
 	escreva("\n• Desconto do IRPF: R$ ", mat.arredondar(desconto_IRPF,2))
 	escreva("\n• Salário líquido: R$ ", mat.arredondar(salario_liquido,2))
@@ -52,6 +57,5 @@ enquanto(nome != "FIM" e nome != "fim"){
 	leia(nome)
 	
 }//chave da repetição
-	
 	}
 }
